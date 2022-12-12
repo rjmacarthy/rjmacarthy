@@ -7,6 +7,6 @@ Skills
 - Experience with testing and debugging tools
 - Strong experience with version control systems such as Git
 - Familiarity with server-side languages such as Node.js, Python, C#, Rust
-- Ability to lead and mentor a team of developers
+- Ability to build and lead and mentor teams of developers
 - Excellent communication skills and the ability to work well with others in a collaborative environment
 - Problem-solving and analytical skills
